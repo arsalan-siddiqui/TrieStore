@@ -1,0 +1,6 @@
+Command                                 Output
+-create Wiztech                         Store Wiztech created
+-insert name Arsalan into Wiztech       name Arsalan inserted into Wiztech
+-get name from Wiztech                  Arsalan
+-exists name in Wiztech                 true
+-delete Wiztech                         Store Wiztech deleted

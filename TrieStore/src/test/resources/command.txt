@@ -1,0 +1,5 @@
+-create Wiztech 
+-insert name Arsalan into Wiztech
+-get name from Wiztech
+-exists name in Wiztech 
+-delete Wiztech
